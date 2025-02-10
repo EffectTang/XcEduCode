@@ -11,6 +11,10 @@
     <groupId>com.xuecheng</groupId>
     <artifactId>xc-framework-parent</artifactId>
     <packaging>pom</packaging>
+    <modules>
+        <module>../xc-service-manage-cms</module>
+        <module>../xc-service-manage-cms</module>
+    </modules>
     <version>1.0-SNAPSHOT</version>
     <properties>
         <java.version>1.8</java.version>
